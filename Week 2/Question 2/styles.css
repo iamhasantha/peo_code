@@ -1,6 +1,7 @@
 
 body{
     margin: 0;
+    width: 100%;
     background-color: rgb(253,247,219);
     font-family: Arial, Helvetica, sans-serif;
 }
